@@ -9,4 +9,11 @@ var Video = Backbone.Model.extend({
     this.trigger('select', this);
   }
 
+  
+
 });
+// var videoListArray = [];
+// for (var i = 0; i < window.exampleVideoData.length; i ++) {
+//   videoListArray.push(new Video(window.exampleVideoData[i]));
+// }
+
